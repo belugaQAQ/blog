@@ -1,0 +1,15 @@
+# 说说数据配置
+talks:
+  - date: "2024-01-15 14:30"
+    avatar: "/images/avatar.jpg"
+    content: "这是我的第一条说说内容"
+  - date: "2024-01-16 10:20"
+    content: "今天天气真好！"
+    # author和avatar可选，不填使用默认值
+
+# 配置说明
+# date: 发布时间 (格式: YYYY-MM-DD HH:mm)
+# author: 作者 (可选，默认使用 config.author)
+# avatar: 头像链接 (可选)
+# content: 说说内容
+# images: 图片列表 (可选)
