@@ -1,10 +1,8 @@
 # 说说数据配置
 talks:
-  - date: "2024-01-15 14:30"
+  - date: "2025-12-20 20:00"
     avatar: "/images/avatar.jpg"
-    content: "这是我的第一条说说内容"
-  - date: "2024-01-16 10:20"
-    content: "今天天气真好！"
+    content: "用代码表达言语的魅力,用代码书写山河的壮丽"
     # author和avatar可选，不填使用默认值
 
 # 配置说明

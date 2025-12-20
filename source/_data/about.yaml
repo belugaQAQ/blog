@@ -1,42 +1,33 @@
 # 关于页面配置
 name: "ClassIsBand！"  # 如果不设置，将使用主题配置中的名称
-title: "全栈开发者 | 技术爱好者"
-description: "热爱编程，专注于Web开发，喜欢探索新技术，分享技术心得。"
+title: "初中生 | 技术爱好者"
+description: "热爱编程，喜欢折腾，分享技术心得。"
 
 # 技能列表
 skills:
-  - "JavaScript"
-  - "TypeScript"
-  - "React"
-  - "Vue.js"
-  - "Node.js"
-  - "Python"
+  - "C++"
   - "Git"
-  - "Docker"
+  - "剪映"
+  - "折腾"
+  - "龙逼"
 
 # 联系方式
 contacts:
   - name: "邮箱"
     icon: "email"
-    link: "mailto:your-email@example.com"
+    link: "mailto:2441500679@qq.com"
   - name: "GitHub"
     icon: "code"
-    link: "https://github.com/yourusername"
-  - name: "微信"
+    link: "https://github.com/belugaQAQ"
+  - name: "QQ"
     icon: "chat"
-    link: "#"
-  - name: "知乎"
-    icon: "school"
-    link: "https://zhihu.com/people/yourusername"
+    link: "https://qm.qq.com/cgi-bin/qm/qr?k=H-okJXsZqiSVnbSovX19e942UsXvPjCQ"
 
 # 项目展示
 projects:
   - name: "Hexo Materialis 主题"
     description: "一个基于 Material Design 3 的 Hexo 主题，提供现代化的博客体验。"
     link: "https://github.com/Can1425/Hexo-Theme-Materialis"
-  - name: "个人博客系统"
-    description: "基于 Hexo 搭建的个人技术博客，分享技术文章和生活感悟。"
-    link: "https://your-blog-url.com"
-  - name: "开源项目示例"
-    description: "这是一个示例项目，展示您的开发能力和技术栈。"
-    link: "https://github.com/yourusername/your-repo"
+  - name: "StickyHomeworks2"
+    description: "一款支持富文本的桌面作业贴工具。"
+    link: "https://github.com/StickyHomeworks2/StickyHomeworks2/"
