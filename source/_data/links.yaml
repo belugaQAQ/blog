@@ -7,11 +7,7 @@
   avatar: "/images/stickyhomeworks2-icon@8x.png"
   desc: "一款支持富文本的桌面作业贴工具。"
 
-- name: "示例友链2"
-  url: "https://example2.com"
-  avatar: "https://example2.com/avatar.jpg"
-  desc: "这是第二个示例友链的描述"
-
-- name: "示例友链3"
-  url: "https://example3.com"
-  desc: "这个友链没有头像，会显示默认图标"
+- name: "智教联盟"
+  url: "https://forum.smart-teach.cn/"
+  avatar: "/images/SmartTeach.png"
+  desc: "智教联盟致力于为教学辅助类应用提供全方面扶持与帮助。"

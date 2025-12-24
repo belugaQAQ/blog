@@ -27,7 +27,7 @@ contacts:
 projects:
   - name: "Hexo Materialis 主题"
     description: "一个基于 Material Design 3 的 Hexo 主题，提供现代化的博客体验。"
-    link: "https://github.com/Can1425/Hexo-Theme-Materialis"
+    link: "https://github.com/belugaQAQ/blog"
   - name: "StickyHomeworks2"
     description: "一款支持富文本的桌面作业贴工具。"
     link: "https://github.com/StickyHomeworks2/StickyHomeworks2/"

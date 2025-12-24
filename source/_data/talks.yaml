@@ -1,8 +1,30 @@
 # 说说数据配置
 talks:
+  - date: "2025-12-24 21:20"
+    avatar: "/images/avatar.jpg"
+    content: |
+      没有CI
+      就没有ClassIsBand
+      我就不会出现在大家眼前
+      有了Ci，才让我变成了【BIG SHOT】
+      这就是「缘分」吧
+  
+  - date: "2025-12-24 21:25"
+    avatar: "/images/avatar.jpg"
+    content: |
+      不过
+      现实的大家又是谁呢
+      还是幽默的吗
+      还是社畜？
+      我不知道
+      也不想知道
+      因为没有互联网的帮助
+      就没有我
+  
   - date: "2025-12-20 20:00"
     avatar: "/images/avatar.jpg"
     content: "用代码表达言语的魅力,用代码书写山河的壮丽"
+  
     # author和avatar可选，不填使用默认值
 
 # 配置说明
